@@ -1,0 +1,5 @@
+#Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
+altura = int(input("qual e a altura de um retangulo?"))
+base = int(input("qual e a base do retangulo?"))
+area = base * altura
+print(area)
